@@ -1,15 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-ReactDOM.render(<><h1>Shivani Love You</h1>
-  <p>bohat saara</p>
-  <p>SweetHeart 🙈</p>
+ReactDOM.render(<><h1>KIRTI best picks</h1>
+  <p>BOOKS ON SELF DEVLOPMENT & FINANACE</p>
   <ol>
-  <li>Aanchal</li>
-  <li>Rohit</li>
-  <li>Kirti</li>
-  <li>Shivani</li>
-  <li>Mayur</li>
+  <li>Zero to one</li>
+  <li>Make your bed</li>
+  <li>Rich dad poor dad</li>
+  <li>Master of disguise techniques</li>
+  <li>Rules of management</li>
 
   </ol>
 </>,
